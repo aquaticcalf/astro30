@@ -6,9 +6,7 @@
 
 ### what
 
-30 days of making pointless stuff using astro
-
-each day a new project starts and ends ( hopefully )
+30 pointless stuff made using astro
 
 ### progress
 
